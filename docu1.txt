@@ -1,1 +1,3 @@
 Fichero docu1
+Añado primera línea de texto
+Añado segunda línea de texto 
